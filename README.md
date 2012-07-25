@@ -1,43 +1,7 @@
-netj's dotfiles
-===============
+DO NOT USE THIS DOT FILES.
 
-How to use (for the first time)
--------------------------------
-1. Make sure you have [Git][] on your system.
+Please, go to netj's(https://github.com/netj/dotfiles) and use his.
 
-2. Clone my repo by running:
+This repository is just for one of caward freeloader.
 
-        git clone https://github.com/netj/dotfiles.git ~/.dotfiles
-
-3. Run the following command and press `y` for the files you want to install:
-
-        ~/.dotfiles/install
-
-
-Notes
------
-* You can run following commands later to stay up-to-date:
-
-        cd ~/.dotfiles
-        git pull
-        ./install
-
-* If you want to send me your modifications, please put them up in your
-  [GitHub][] fork and send me a pull request at [my
-  repo](https://github.com/netj/dotfiles).
-* I use a [zlib/libpng style license][license]. Consult the `COPYRIGHT` file
-  for more information on using these files.
-
-[git]: http://git-scm.com/
-[github]: http://github.com/
-[license]: http://www.opensource.org/licenses/zlib-license.php
-
-
-Warning
--------
-* Use entirely at your own risk -- no warranty is expressed or implied.
-* Playing around with your dotfiles is a very time consuming activity.
-
-
-----
-Jaeho Shin <netj@sparcs.org>
+Thanks to netj.
